@@ -1,8 +1,48 @@
-# React + Vite
+# ✅ Quest Todo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicação de lista de tarefas desenvolvida com **React + Vite**, criada para praticar gerenciamento de estado, componentes e interação com o usuário.
 
-Currently, two official plugins are available:
+## 🛠️ Tecnologias
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚛️ React
+- ⚡ Vite
+- 🟨 JavaScript
+- 🎨 CSS
+
+## 🚀 Funcionalidades
+
+- Adicionar tarefas
+- Visualizar tarefas
+- Marcar tarefas como concluídas
+- Remover tarefas
+- Interface interativa
+
+## 🧪 Testes
+
+O projeto possui uma pasta dedicada a testes, utilizada durante o desenvolvimento para validar o comportamento da aplicação.
+
+## ▶️ Como executar
+
+```bash
+npm install
+npm run dev
+```
+
+Depois, abra o endereço informado pelo Vite no navegador.
+
+## 📁 Estrutura
+
+```text
+src/       # componentes e lógica da aplicação
+public/    # arquivos públicos
+testes/    # arquivos relacionados aos testes
+README.md  # documentação do projeto
+```
+
+## 📚 Objetivo
+
+Projeto desenvolvido durante meus estudos de desenvolvimento front-end, com foco na prática de React e na criação de uma aplicação funcional.
+
+## 👨‍💻 Autor
+
+[Nicollas Rodrigo](https://github.com/NicollasRodrigo)
